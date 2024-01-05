@@ -70,7 +70,7 @@
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> von <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> von <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>
     <string name="list_verifying_update">Update wird geprüft</string>
-    <string name="list_no_updates">Keine neuen Updates gefunden. Um manuell nach neuen Updates zu suchen, verwende die Schaltfläche \"Aktualisieren\".</string>
+    <string name="list_no_updates">Kein Update gefunden. Um manuell nach Updates zu suchen, verwende die Schaltfläche \"Aktualisieren\" oder ziehe nach unten zum Aktualisieren.</string>
     <string name="action_download">Herunterladen</string>
     <string name="action_pause">Anhalten</string>
     <string name="action_resume">Fortsetzen</string>
